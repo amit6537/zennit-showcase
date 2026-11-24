@@ -4,7 +4,7 @@
 
 **A SaaS marketplace of production-ready React + Tailwind UI components and website templates, with one-click copy-paste.**
 
-Sold at a **$2M valuation** · Role: **Founding Engineer**
+Sold at a **$1.5 valuation** · Role: **Founding Engineer**
 
 `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` · `Razorpay` · `Cloudinary` · `Vercel` · `Render`
 
@@ -20,7 +20,10 @@ Sold at a **$2M valuation** · Role: **Founding Engineer**
      or replace this line with an unlisted YouTube link:
      [![Watch the demo](screenshots/home.png)](https://youtu.be/YOUR_VIDEO_ID) -->
 
-_Demo video coming soon._
+
+
+https://github.com/user-attachments/assets/0d0909e1-4d7c-4c68-8ef6-45551bd3db6f
+
 
 ![Zennit landing page](screenshots/home.png)
 
