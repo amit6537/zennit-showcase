@@ -64,8 +64,6 @@ Developers browse a library of UI sections (heroes, pricing tables, FAQs, navbar
 |---|---|
 | ![Sign up](screenshots/signup.png) | ![Creator Program](screenshots/creator-program.png) |
 
-<div align="center">
+## My role
 
-**Interested in the code or a walkthrough?** Contact me on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) or by [email](mailto:YOUR-EMAIL).
-
-</div>
+As **founding engineer** I built the product end to end: the frontend, the REST API and database design, authentication, payment integration, the admin analytics dashboard and deployment.
