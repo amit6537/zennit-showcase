@@ -66,4 +66,4 @@ Developers browse a library of UI sections (heroes, pricing tables, FAQs, navbar
 
 ## My role
 
-As **founding engineer** I built the product end to end: the frontend, the REST API and database design, authentication, payment integration, the admin analytics dashboard and deployment.
+As **founding engineer** The frontend, the REST API and database design, authentication, and the admin analytics dashboard and deployment.
