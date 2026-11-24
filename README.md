@@ -4,7 +4,7 @@
 
 **A SaaS marketplace of production-ready React + Tailwind UI components and website templates, with one-click copy-paste.**
 
-Sold at a **$1.5 valuation** · Role: **Founding Engineer**
+Sold at a **$1.5M valuation** · Role: **Founding Engineer**
 
 `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` · `Razorpay` · `Cloudinary` · `Vercel` · `Render`
 
